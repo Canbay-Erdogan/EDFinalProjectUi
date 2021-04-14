@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "northwind"
+    }
+  },
+  "defaultProject": "northwind",
+  "cli": {
+    "analytics": "ba6ab169-a45f-4c36-aa9e-dc8e6e720c0f"
+  }
 }
